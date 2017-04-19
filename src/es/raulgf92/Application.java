@@ -33,10 +33,10 @@ public class Application {
         //----------------------------------------------
         
         Videogame videogame=new Videogame();
-        videogame.setName("FIFA 16");
-        videogame.setDescription("Juego de futbol de la compañia EA");
+        videogame.setName("Battlefield 1");
+        videogame.setDescription("Battlefield 1 es un videojuego shooter de acción bélica en primera persona. El título fue desarrollado por DICE y distribuido mundialmente por Electronic Arts para Xbox One, PlayStation 4 y PC");
         videogame.setPlataforms(new boolean[4]);
-        videogame.setValoration(8);
+        videogame.setValoration(9);
         videogame.setDateOfOut(new Date());
         
         Videogame videogame2=new Videogame();
